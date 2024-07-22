@@ -1,3 +1,2 @@
 ## Project Title
-
-Test
+MERN Application
